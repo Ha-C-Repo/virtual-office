@@ -1,0 +1,38 @@
+# Glossary
+
+- AEP: annual enrollment period, October 15 to December 7.
+- OEP: Medicare Advantage open enrollment period, January 1 to March 31.
+- MA / PDP / MAPD: Medicare Advantage; prescription drug plan; Medicare Advantage with drug coverage.
+- Med Supp: Medicare Supplement.
+- ANOC: annual notice of change, delivered to members by September 30.
+- IEP / ICEP / OEPI / SEP: initial, initial coverage, institutional, special election periods.
+- LIS: low-income subsidy. Dual-eligible: eligible for Medicare and Medicaid.
+- MCMG: federal Medicare marketing and communications guidelines.
+- TPMO: third-party marketing organization.
+- Material submission system: federal system through which carriers submit marketing material.
+- FMV: fair market value compensation cap for MA and PDP applications.
+- PTC: permission to contact. SOA: scope of appointment.
+- TCPA / DNC: telephone consumer protection rules and do-not-call.
+- PHI / PII; HIPAA.
+- RTS: ready to sell. NPN: national producer number. Writing number: carrier-assigned producer ID.
+- Appointment: carrier authorization to sell. Contracting: the paperwork process to obtain it.
+- FMO: field marketing organization. Upline / hierarchy: chain of agencies above the branch.
+- Override: commission paid to a higher level on a lower level's production.
+- Street vs agency level: comp level tiers. First-year vs renewal comp.
+- Comp grid: carrier x product x level rates.
+- Persistency: share of policies still in force. Clawback / chargeback: recovery of commission on lapsed or overpaid business.
+- E&O: errors and omissions insurance. CE: continuing education.
+- Annual industry certification: yearly Medicare product training and test.
+- Non-resident license: license in a state other than home state.
+- MOOP: maximum out-of-pocket. Formulary and tier: covered drug list and cost levels. Star rating: federal quality rating.
+- Switch risk: likelihood a client leaves the plan or the agent.
+- Book of business: set of clients served by an agent. Roster: list of agents.
+- Principal: branch leader. Operator: AI and IT lead running the office.
+- Writing agent: agent who wrote the policy. Basis: per-application or percent-of-premium.
+- Variance: paid minus expected.
+- Confidence tag: high, medium, low.
+- Verify, do not generate: sources of record only; no invented values.
+- Tier 1 / 2 / 3: governance levels (immutable, principal, operator).
+- INT memo: internal companion memo (-INT) to an outward document.
+- Demonstration label: marking on outward artifacts until engagement is live.
+- Safe-write: backup, changelog line, atomic write.

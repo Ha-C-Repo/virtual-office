@@ -1,0 +1,30 @@
+# Glossary: Real Estate
+
+- **CMA**: comparative market analysis. An opinion of value, not an appraisal.
+- **GLA**: gross living area.
+- **ROM**: rough order of magnitude estimate; lower accuracy tier than CMA-grade.
+- **CMA-grade vs ROM**: accuracy tiers driven by sourced records and measured plans.
+- **MLS**: multiple listing service.
+- **IDX**: internet data exchange feed.
+- **CAD**: county appraisal district (public property records).
+- **EBR**: established business relationship.
+- **TCPA**: telemarketing and messaging consent law.
+- **CAN-SPAM**: commercial email law.
+- **DNC**: do-not-call.
+- **Fair housing**: anti-discrimination rules; advertising must not express preference by protected class.
+- **Steering**: guiding buyers toward or away from areas by protected class.
+- **Net sheet**: seller proceeds estimate (internal only).
+- **-INT**: suffix on the internal twin of a client document.
+- **Comp corridor**: price-per-square-foot range from comparable sales.
+- **Adjustment grid**: comp-to-subject adjustments.
+- **Option period**: buyer's termination window.
+- **Title objections, HOA documents, appraisal, financing deadlines**: contract milestones.
+- **Tour grades**: A measured, B reconstructed, C captured.
+- **Illustrative label**: "AI-generated, illustrative, not a survey or measurement."
+- **Tier 1 / 2 / 3**: governance priority (immutable / owner preference / default).
+- **Practice run**: offline regression test.
+- **Door**: the single mandatory entry function for a class of outward action.
+- **Fail closed**: missing data blocks rather than clears.
+- **Broker identification**: required in advertising; forbidden in the MLS tour field (surface split).
+- **Confidence tag**: high / medium / low on every extracted or computed item.
+- **Sphere**: past clients and personal contacts a broker stays in touch with.

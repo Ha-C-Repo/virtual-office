@@ -1,0 +1,30 @@
+# Glossary: Education App Studio
+
+- **Certification boundary**: the code region where a deterministic checker, not a model, decides whether an answer ships.
+- **Verdict**: verified, refuted or unverifiable.
+- **Fail closed**: any fault yields unverifiable, never verified.
+- **Unaudited certification**: a verified result whose audit write failed; downgraded to unverifiable.
+- **Check plan**: how the learner's own problem text becomes a verification request.
+- **Out-of-domain**: a problem the solver cannot express; known before any model call.
+- **Solver-only outcome**: certified answer without steps.
+- **Outcome set**: CERTIFIED, UNCHECKED, SOLVER_ONLY, FAILED.
+- **Practice variant**: one similar problem generated per solved problem.
+- **Explain-it-back**: a prompt asking the learner to restate the idea.
+- **Confidence tag**: high, medium or low on every extraction and solution.
+- **Grade band**: coarse three-way learner level (early, middle, advanced); the only profile hint allowed to travel with a problem.
+- **Transcription confirm gate**: the learner must confirm OCR text before solving.
+- **Crop-first intake**: crop to the problem before upload to avoid incidental personal data.
+- **Metering scaffold**: local counter and config-driven limit with no payment path; fails open.
+- **Integrity by design**: no ghostwriting or submission-ready output.
+- **Kill-list**: forbidden claims and keywords.
+- **Dependency-tax gate**: written justification per new dependency.
+- **Spec maturity**: napkin, draft, final, frozen.
+- **Release pair**: public notes plus internal build report.
+- **Curriculum QA log**: queue of low-confidence, refuted or unverifiable items.
+- **Data-minimization map**: table of data, origin, storage, whether it leaves the device, and why.
+- **Neutral age screen**: age prompt with no preset value and no hint text.
+- **COPPA**: US children's online privacy law (under 13).
+- **FERPA**: US education records privacy law.
+- **Staged rollout, crash-free rate, ANR rate, internal track**: release-stability vocabulary.
+- **Parity**: two independent solver implementations passing one shared vector file.
+- **Panel and judge**: asking several independent models an open question and having a judge name consensus, conflicts and gaps.

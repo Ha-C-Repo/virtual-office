@@ -1,0 +1,38 @@
+# Glossary: Publishing
+
+- **Age band:** the target reader range that sets word budgets and readability targets.
+- **Spread:** two facing pages treated as one unit.
+- **Right-page hook:** end of a right-hand page that invites the page turn.
+- **Bleed / trim / gutter:** extra image beyond the cut line / final page size / inner margin near the binding.
+- **Spine math:** spine width from page count and paper thickness.
+- **PPI/DPI, CMYK:** image resolution; print color space.
+- **Fixed-layout vs reflowable ebook:** layout locked to page design vs text that flows to the device.
+- **Read-along:** narrated text synced to the page.
+- **Model sheet / expression grid:** reference drawings of a character from set angles and with set emotions.
+- **Style lock:** the fixed art style and palette.
+- **Location bible / series bible:** fixed visual and character truth documents.
+- **Inpainting / drift:** regenerating part of an image / unwanted change between images.
+- **Typed references:** reference images labeled by role (character, location, style).
+- **Readability formula:** a measure of reading difficulty such as an early-grade word-list formula or a grade-level formula.
+- **Scansion:** marking stressed syllables to check meter.
+- **AI-generated vs AI-assisted:** AI produced first expression vs human produced and AI refined.
+- **Limitation of claim:** copyright application statement excluding material from the claim.
+- **Compilation copyright:** protection for original selection and arrangement.
+- **Production log:** per-stage record of human work.
+- **Blocking gate:** a step that requires a logged human PASS.
+- **Confidence tag:** high, medium, low on any extraction or check.
+- **Authorship modes A/B/C:** Organizer / Collaborator / Draft-first.
+- **Passage tiers 1/2/3:** human-written / human-rewritten / AI as generated.
+- **Deliverable tiers T0 to T4:** timeline, story map, drafted manuscript, private family edition, public release.
+- **Pseudonymization P0 to P3:** none, names changed, names and details changed, composite.
+- **Sensitivity tiers:** normal, elevated, restricted, excluded.
+- **Egress gate:** the single function through which data may leave the local environment.
+- **told_at vs occurred_at:** when something was said vs when it happened.
+- **Voice fidelity gate / Stage 0 calibration:** measured match to the subject's voice / pre-draft test of whether the corpus can support it.
+- **Assertion audit:** diffing every claim to a source.
+- **Passage authorship ledger:** record of who wrote each passage and how.
+- **Two-layer archive:** sealed raw layer plus working layer.
+- **False-memory amplification / confirmatory reinforcement:** interviewer behavior that strengthens uncertain or suggested memories.
+- **Outside legal read:** independent legal review before release.
+- **Counsel-required tag:** marks items needing a lawyer.
+- **Private vs public listing:** limited-access edition vs open retail listing.

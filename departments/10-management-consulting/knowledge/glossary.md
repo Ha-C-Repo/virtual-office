@@ -1,0 +1,22 @@
+# Glossary: Management Consulting
+
+- **Band label:** AUTO, DRAFT, BRIEF or WAIT; first line of every output.
+- **Issue tree:** MECE breakdown of a key question.
+- **MECE:** mutually exclusive, collectively exhaustive.
+- **Strategic choice cascade:** aspiration, where to play, how to win, capabilities, management systems.
+- **What would have to be true:** test of the conditions behind an option.
+- **Pre-mortem / inversion:** imagine failure; ask how to guarantee failure.
+- **Decision-rights matrix:** who recommends, agrees, decides, performs, is informed.
+- **Spans and layers:** reports per manager; levels in the organization.
+- **Driver-based model:** model built from operational drivers.
+- **EVC:** economic value to the customer.
+- **Pocket price waterfall:** list price to realized price after leakage.
+- **Price-pack architecture:** tiers and pack sizes with fences.
+- **QoE:** quality of earnings; normalized earnings analysis.
+- **Integration archetype:** absorb, preserve, best of both, transform.
+- **100-day plan:** post-acquisition integration plan.
+- **Ghost deck:** headline-only draft deck.
+- **Trust equation:** credibility plus reliability plus intimacy, divided by self-orientation.
+- **Stop-doing list:** deliberate subtractions agreed at the decision session.
+- **S&OP:** sales and operations planning (supply and demand balance).
+- **ICP:** ideal client profile.

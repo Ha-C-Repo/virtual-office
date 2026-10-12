@@ -1,0 +1,32 @@
+# Glossary: AI Video and Creative Production
+
+- **B-roll:** supplementary footage, here often generated.
+- **Pre-roll:** short ad before other video.
+- **Hook / problem / agitate / solution / proof / CTA:** the six beats of a 30-second commercial.
+- **Aspect ratio:** width to height (for example 16:9, 9:16).
+- **Image-to-video:** animating from a supplied still.
+- **First-frame input:** the still that starts a generated clip.
+- **Reference image:** a labeled image that anchors a subject.
+- **Style token / style lock:** reusable look descriptor and its locked palette.
+- **Anti-AI look laws:** the 16 rules to avoid generic AI results.
+- **Drift:** unwanted change in a subject between shots.
+- **Inpaint:** regenerate part of an image.
+- **Rig:** layered puppet with skeleton for animation; **mouth-shape set:** mouth positions for speech sounds.
+- **Plate:** background image or clip behind animation.
+- **Storyboard JSON:** structured scene list; single source of truth.
+- **Cost gate:** quote and explicit go before paid generation.
+- **Credit / unlimited mode:** pay-per-use vs flat-use generation settings.
+- **Timing memory:** recorded durations used to schedule waits.
+- **Circuit breaker:** automatic stop after repeated errors.
+- **Hybrid mode:** generated footage plus local programmatic assembly.
+- **Frame review:** human inspection of every frame.
+- **Critic pass:** independent review of design output.
+- **Made-for-kids designation:** platform setting for child audiences.
+- **Inauthentic content:** platform category for mass-produced or low-effort uploads.
+- **Production log / AI disclosure register:** records of human work and AI use.
+- **Brand tokens:** structured brand identity, logo and color rules.
+- **Master website prompt:** the filled specification for a web build.
+- **Critical gate terms:** BLOCKING (human PASS required).
+- **Safe zone:** screen area free from platform interface overlays.
+- **Ducking:** lowering music under speech.
+- **LUFS / loudness:** audio loudness measure.

@@ -1,0 +1,28 @@
+# Glossary
+
+- Asset tag: unique global ID assigned at creation of a unit.
+- Lineage: parent and child record supporting provenance claims.
+- Hold (lock): fixed no-sale period after creation, released by the clock only.
+- Lifecycle schedule: release day, markdown day, liquidation or bundle flag day.
+- Tier 1, 2, 3: commercial tiers with price bands, quarantine terms and space-share targets.
+- QT: quarantine system, isolated from production.
+- Ingress treatment: staged treatment on arrival.
+- VERIFIED vs ESTIMATED: count status depending on recent physical reconciliation.
+- Reserve sweep: periodic percentage of gross revenue moved to a capital reserve.
+- Net yield: gross sales minus operating cost per production unit.
+- Underperformance trigger: consecutive weeks below target.
+- Freshness window: maximum age of input data before a routine must refuse.
+- Representative sample point: a single sampling location per shared volume.
+- Scaffold: structure present, data empty.
+- Opex cap: minimum and maximum monthly operating cost per unit.
+- Capex: capital expenditure.
+- Schedule of values (SOV): breakdown of a contract sum used for progress billing.
+- Milestone billing: invoicing at defined contract events.
+- Prequalification: third-party review of safety, insurance and controls before work is awarded.
+- Written program: documented safety or compliance procedure.
+- Experience modification rate (EMR): insurer safety rating factor.
+- Master safety manual: umbrella document used when a standalone program is absent.
+- Confidence tag: high, medium, low.
+- Verify, do not generate: missing data returns a flag.
+- Source SOP: the controlling protocol document.
+- Audience separation: internal, buyer, investor.
