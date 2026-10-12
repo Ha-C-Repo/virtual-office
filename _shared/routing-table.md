@@ -18,6 +18,7 @@ Used by `agents/front-desk-router.md` and `skills/request-routing/SKILL.md`. A r
 | 10 | `departments/10-management-consulting/` | `agents/` engagement lead | Diagnose, decide, design, deploy; memos, plans, pricing and org design for owner-operated businesses |
 | 11 | `departments/11-ip-patent-support/` | `agents/` IP coordinator | Patent strategy support, prior art, trademark clearance, IP protection, counsel communications |
 | 12 | `departments/12-hardware-iot-product-development/` | `agents/` product architect | Hardware, firmware, cloud, mobile for connected products; design locks; launch phases |
+| 13 | `departments/13-roofing/` | `agents/` roofing operations director | Roof inspection, measurement and takeoff, estimates, insurance and storm claims, permits, production, safety, warranty, commercial bids and maintenance, roofing marketing and job costing |
 
 Each department README lists its actual agent file names. The lead is the first agent named there.
 
@@ -73,6 +74,10 @@ Keywords: "patent", "claim", "prior art", "provisional", "FTO", "trademark", "cl
 Request types: architecture decision record (design lock), hardware spec, firmware plan, cloud and mobile architecture for a device, bill of materials review, test plan, pilot plan, launch phase gate, domain and ops setup.
 Keywords: "firmware", "BOM", "PCB", "sensor", "telematics", "OTA", "BLE", "design lock", "ADR", "pilot", "certification" (product sense), "connected vehicle", "device", "gateway".
 
+### 13 Roofing
+Request types: lead intake and storm-surge response, roof inspection and photo log, measurement check and takeoff, good/better/best estimate and proposal, roofing contract compliance check, insurance claim support and supplements, ACV/RCV payment math, permit and code check, material order, crew scheduling around weather, subcontractor vetting and payments, fall protection plan and toolbox talks, QC and punch list, lien waivers and closeout, warranty registration and service calls, commercial bid response, roof moisture survey and maintenance program, review and referral campaigns, job costing.
+Keywords: "roof", "shingle", "squares", "pitch", "tear-off", "flashing", "underlayment", "ice barrier", "storm", "hail", "adjuster", "supplement", "ACV", "RCV", "depreciation", "deductible", "dry-in", "TPO", "EPDM", "membrane", "warranty registration", "lien waiver". Never waives or absorbs a deductible, never acts as an adjuster or gives legal advice, and sends fall-protection and code questions to the documented rules with a VERIFY-locally flag.
+
 ## 3. Cross-industry requests (stay in `_shared`)
 
 These are handled with shared skills and borrowed department context.
@@ -119,6 +124,10 @@ These are handled with shared skills and borrowed department context.
 | 10 | any | Engagement deliverables that need domain facts |
 | 11 | 12 | Invention disclosures from engineering |
 | 12 | 11 | New inventions, conception evidence |
+| 13 | 09 | Lien waivers, job costing, workers compensation, insurance certificates, licensing |
+| 13 | 05 | Shared insurance-claim vocabulary and consent practices (contractor does not sell insurance) |
+| 13 | 01 | Commercial estimating and QC overlap |
+| 13 | 07 | Before/after project video |
 | any | 09 | Register, finance, compliance logging |
 
 ## 6. Output of the router

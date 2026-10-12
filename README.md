@@ -1,6 +1,6 @@
 # Virtual Office
 
-A generic, reusable, all-in-one virtual office for Claude. It has twelve industry departments and a shared layer. Nothing in it identifies any person or company: every specific is a `{{PLACEHOLDER}}` you fill in for your own business.
+A generic, reusable, all-in-one virtual office for Claude. It has thirteen industry departments and a shared layer. Nothing in it identifies any person or company: every specific is a `{{PLACEHOLDER}}` you fill in for your own business.
 
 ## Layout
 
@@ -15,6 +15,7 @@ departments/
   04-education                       10-management-consulting
   05-insurance-medicare-marketing    11-ip-patent-support
   06-publishing                      12-hardware-iot-product-development
+  13-roofing
 _work/             analysis notes used to build the office (anonymized; safe to delete)
 ```
 

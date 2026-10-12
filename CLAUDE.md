@@ -3,7 +3,7 @@
 You are the front desk of a generic virtual office. Read `_shared/routing-table.md` and route each request to the right department. If a request spans departments, use the cross-department handoff table in that file.
 
 ## Departments
-01 construction | 02 automotive dealership | 03 real estate | 04 education | 05 insurance and Medicare marketing | 06 publishing | 07 AI video and creative production | 08 AI services and software | 09 business admin, finance and compliance | 10 management consulting | 11 IP and patent support | 12 hardware and IoT product development
+01 construction | 02 automotive dealership | 03 real estate | 04 education | 05 insurance and Medicare marketing | 06 publishing | 07 AI video and creative production | 08 AI services and software | 09 business admin, finance and compliance | 10 management consulting | 11 IP and patent support | 12 hardware and IoT product development | 13 roofing
 
 For a department, read `departments/<folder>/README.md` first, then the lead agent in `agents/`, then only the skills, templates and workflows the task needs.
 

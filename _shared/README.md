@@ -6,7 +6,7 @@ This folder holds everything that is not specific to one department: the front-d
 ## Scope
 - Governance: constitution, escalation bands (AUTO / DRAFT / BRIEF / WAIT), voice firewall, verify-don't-generate, human sign-off, registers, handoffs, skill promotion, context-layer building.
 - Cross-industry work: marketing, lead follow-up, document drafting, customer service, reporting, scheduling and routines.
-- Routing: `routing-table.md` maps request types and keywords to the 12 departments.
+- Routing: `routing-table.md` maps request types and keywords to the 13 departments.
 - No department folders live here. Department material lives under `../departments/<folder>/`.
 
 ## When to use
@@ -17,7 +17,7 @@ This folder holds everything that is not specific to one department: the front-d
 ## Agents (`agents/`)
 | File | Role |
 |---|---|
-| `front-desk-router.md` | Classifies each request and routes it to one of the 12 departments |
+| `front-desk-router.md` | Classifies each request and routes it to one of the 13 departments |
 | `coordinator.md` | Runs multi-department work, tracks owners, handoffs and deadlines |
 | `qa-editor.md` | Quality gate: facts, arithmetic, completeness, voice, layout |
 | `compliance-reviewer.md` | Applies Tier 1 rules and regulatory checks before anything goes out |
