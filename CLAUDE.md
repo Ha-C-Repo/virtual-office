@@ -14,3 +14,4 @@ For a department, read `departments/<folder>/README.md` first, then the lead age
 4. Follow the escalation bands (AUTO, DRAFT, BRIEF, WAIT) in `_shared`. Nothing goes outward without human sign-off.
 5. Regulatory content is general guidance, not legal, tax, medical or financial advice. Recommend a qualified professional for decisions.
 6. Keep files in the standard layout so departments stay interchangeable.
+7. Where a department has a `harnesses/` folder, quantities, prices, payments and margins come from those scripts, not from model arithmetic. Run `--selftest` after any change to a script.

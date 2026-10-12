@@ -17,3 +17,9 @@
 - **Statement of use:** proof of actual use filed after an intent-to-use application is accepted.
 - **Specimen:** evidence of the mark as used.
 - **Design lock / ADR:** recorded architecture decision; helps date conception.
+- **IP register:** the single sourced list of IP assets, status and deadlines.
+- **SPDX identifier:** short standard id for a software license (for example MIT, Apache-2.0).
+- **Permissive / copyleft / source-available:** triage labels for license families; not legal conclusions.
+- **Trade secret:** information kept secret and protected by reasonable measures, with value from secrecy.
+- **Assignment gap:** a contributor with no signed assignment, or one signed after work began.
+- **Docketing:** tracking legal deadlines with warnings.

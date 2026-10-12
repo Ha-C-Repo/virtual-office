@@ -155,3 +155,6 @@ License on file, county set, warranty terms stated, doc fee set, lender (or an e
 - `knowledge/glossary.md`
 - `knowledge/rules.md`
 - `knowledge/schemas.md`
+
+## Harnesses (`harnesses/`)
+Stdlib Python 3 with self-tests: `deal_math.py`. See `harnesses/README.md`. Run `python deal_math.py --selftest` after any change.

@@ -31,6 +31,9 @@ outward-deliverable-chain, agent-onboarding, aep-readiness, commission-reconcili
 ## Knowledge (`knowledge/`)
 glossary, rules, schemas.
 
+## Harnesses (`harnesses/`)
+Stdlib Python 3 with self-tests: `commission_recon.py`. See `harnesses/README.md`. Run `python commission_recon.py --selftest` after any change.
+
 ## Handoffs
 - 07 AI video creative production: ad and explainer video.
 - 08 AI services software: web builds, AI configuration, connector security.

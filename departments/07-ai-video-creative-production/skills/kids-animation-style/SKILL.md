@@ -10,7 +10,7 @@ Every children's episode, loop and short.
 ## Laws
 1. Wide, stable staging: keep characters fully in frame; avoid fast cuts and abrupt zooms.
 2. Gentle pacing: one idea per beat; leave pauses for the child to respond.
-3. Bright but controlled palette from the style lock; no flashing or high-contrast strobing.
+3. Bright but controlled palette from the style lock; no flashing or high-contrast strobing. Test: nothing flashes more than three times in any one second (WCAG 2.3.1, checked 2026-10-12). Safest is no flashing at all.
 4. Clear faces with readable expressions that match the line.
 5. Repetition with variation: refrains, call and response, learning loops.
 6. Calm sound design: warm voice, no sudden loud effects, music never masks words.

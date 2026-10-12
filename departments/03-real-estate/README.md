@@ -41,6 +41,9 @@ office-rules, commission-and-fees-internal, brand-voice-guide, company-details, 
 ## Knowledge (`knowledge/`)
 glossary.md, rules.md, schemas.md
 
+## Harnesses (`harnesses/`)
+Stdlib Python 3 with self-tests: `net_sheet.py`. See `harnesses/README.md`. Run `python net_sheet.py --selftest` after any change.
+
 ## Handoffs to other departments
 - Video/ad production: to `../07-ai-video-creative-production/` (scripts must pass the script screen here first).
 - Contracts, commission bookkeeping, entity filings: to `../09-business-admin-finance-compliance/`.

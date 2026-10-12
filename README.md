@@ -16,10 +16,11 @@ departments/
   05-insurance-medicare-marketing    11-ip-patent-support
   06-publishing                      12-hardware-iot-product-development
   13-roofing
-_work/             analysis notes used to build the office (anonymized; safe to delete)
+docs/              design notes (hosted-layer spec)
+LICENSE            commercial license (draft)
 ```
 
-Each department has: `README.md`, `agents/`, `skills/<name>/SKILL.md`, `templates/`, `workflows/`, `knowledge/` (glossary, rules, schemas).
+Each department has: `README.md`, `agents/`, `skills/<name>/SKILL.md`, `templates/`, `workflows/`, `knowledge/` (glossary, rules, schemas). Departments with arithmetic risk also have `harnesses/`: stdlib Python tools with self-tests (01, 02, 03, 05, 07, 10, 12, 13). Run `python <file> --selftest` after any change.
 
 ## How to use it
 
@@ -34,5 +35,11 @@ Each department has: `README.md`, `agents/`, `skills/<name>/SKILL.md`, `template
 - Escalation bands: AUTO, DRAFT, BRIEF, WAIT (see `_shared/skills`).
 - Generic public regulations (HIPAA, TCPA, FTC, fair housing, COPPA, and similar) appear as compliance rules. They are starting points, not legal advice: confirm with a qualified professional.
 
+## License
+Commercial license in `LICENSE` (draft, pending attorney review). Earlier versions were published under MIT; copies obtained under MIT stay under MIT.
+
+## Hosted option
+`docs/hosted-layer-design-spec.md` describes a hosted, license-keyed layer for clients who plug in their own AI. Spec only.
+
 ## Authored, not extracted
-Most content was distilled from earlier project work. Some rule sets and example thresholds were written fresh to fill gaps (notably in `07-ai-video-creative-production`). Review those before relying on them.
+Most content was distilled from earlier project work. Some rule sets and example thresholds were written fresh to fill gaps (notably in `07-ai-video-creative-production`). Review status is in `departments/07-ai-video-creative-production/knowledge/authored-rules-review.md`.

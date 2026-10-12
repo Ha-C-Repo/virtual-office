@@ -9,7 +9,7 @@ Every prompt, every production. Also in the pre-generation QA checklist.
 
 ## The laws
 1. One locked style system per production: color, grade, grain, lens language.
-2. Use image-to-video for any shot with a person; never text-to-video for faces.
+2. Use image-to-video for any shot with a person. House rule: text-to-video for faces is not used unless {{OWNER}} approves an exception and the frame review passes.
 3. One reference per subject; the same reference every time.
 4. Never chain output N as the reference for output N+1.
 5. Describe what the camera sees, not adjectives of quality ("stunning", "epic", "cinematic masterpiece").

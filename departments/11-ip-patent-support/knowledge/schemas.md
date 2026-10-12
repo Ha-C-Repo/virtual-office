@@ -17,3 +17,18 @@ date, recipient_role, nda_date, documents, detail_level, approved_by
 
 ## Counsel briefing
 topic, decision_requested, facts, attachments, timeline, questions, deadlines, budget_note
+
+## IP register (additional fields)
+source_doc, recorded_on, verified (yes/no), review_date
+
+## Third-party license inventory
+component, version, source_url, license_id, license_file_path, category, where_used, distribution, notice_required, flag_for_counsel, checked_on, checked_by
+
+## Trade secret register
+item_id, description_only, location, access_roles, protection_measures, agreements_on_file, last_reviewed, owner_role
+
+## Assignment gap check
+contributor_role, contribution, agreement_type, signed_date, first_contribution_date, covers_prior_work, file_location, gap, next_step
+
+## Deadline entry
+asset_id, deadline_type, date, source_doc, recorded_on, warning_stage, acknowledged_by_counsel, outcome

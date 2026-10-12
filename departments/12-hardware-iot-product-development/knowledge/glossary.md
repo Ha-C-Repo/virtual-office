@@ -15,3 +15,11 @@
 - **NDA marking:** confidentiality legend on shared material.
 - **Pilot agreement:** written terms for limited-scale trial use.
 - **End of life:** retirement plan for devices and data.
+- **MOQ:** minimum order quantity.
+- **Landed cost:** unit cost including freight, duty and handling.
+- **Price break / tier:** unit price at a given order volume.
+- **CM / contract manufacturer:** company that builds the product for you.
+- **Canary group:** small first group of devices that gets an update.
+- **Rollback:** returning a device to the last good firmware.
+- **Finding:** recorded test failure or gap with an owner.
+- **Single source:** part with only one qualified supplier.

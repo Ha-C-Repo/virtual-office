@@ -9,16 +9,16 @@ Verify external policy wording against current primary sources and log source an
 4. One locked style system per production; one reference per subject; never chain outputs as references.
 5. Image-to-video for any shot with a person.
 6. Run-order discipline: run nodes in the stated order; no "run all" on cached canvases.
-7. Spoken-word timing rule: about 2.5 words per second of narration; do not script more words than the time allows.
+7. Spoken-word timing rule (heuristic, not a standard): plan about 2.5 words per second of narration; measure your voice talent's real pace and set {{WORDS_PER_SECOND}}. Check with `harnesses/video_planner.py`.
 8. A human reviews every frame before release.
 9. Approval chain: producer, then client or executive; nothing public without logged approval.
 10. Move to archive, never delete; back up before overwrite.
 
 ## IP and rights
 - IP screen before any character, name, music, voice or brand element. Unsure means no.
-- Voice cloning of a real person requires written consent.
+- Voice cloning of a real person requires written consent. Some jurisdictions have voice and likeness statutes; ask counsel before cloning any voice (VERIFY).
 - Music must be owned or licensed for the use; keep licenses.
-- Generated output may not be protectable by copyright; disclose AI material in filings and rely on human contribution records.
+- Generated output may not be protectable by copyright. In the United States, Copyright Office guidance requires human authorship and asks applicants to disclose AI-generated material (VERIFY current guidance). Keep human contribution records. Counsel decides filings.
 
 ## Advertising and claims
 - Consumer protection and advertising law (for example FTC rules in the United States) apply: no deceptive claims, no fabricated testimonials or endorsements, disclose material connections.

@@ -55,3 +55,6 @@ client-proposal, internal-margin-report, bid-intel-report, statement-of-qualific
 3. Two independent calculation paths must agree before a price is released.
 4. Output scrub and two-document pair check before anything leaves.
 5. The approver role signs before send. Notices and change orders are DRAFT ONLY until then.
+
+## Harnesses (`harnesses/`)
+Stdlib Python 3 with self-tests: `bid_buildup.py`. See `harnesses/README.md`. Run `python bid_buildup.py --selftest` after any change.

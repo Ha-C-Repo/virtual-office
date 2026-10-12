@@ -1,6 +1,6 @@
 # Placeholders
 
-2041 distinct tokens. Replace each `{{TOKEN}}` with your own value when you use a template. Meaning is the token name in plain words; the department column shows where it is used (`all` = 5 or more areas). Keep your real values in a private file outside this folder.
+2079 distinct tokens. Replace each `{{TOKEN}}` with your own value when you use a template. Meaning is the token name in plain words; the department column shows where it is used (`all` = 5 or more areas). Keep your real values in a private file outside this folder.
 
 | Token | Meaning | Uses | Where |
 |---|---|---|---|
@@ -57,6 +57,7 @@
 | `{{AGE_BANDS}}` | age bands | 1 | 04-education |
 | `{{AGE_HANDLING}}` | age handling | 1 | 04-education |
 | `{{AGITATE}}` | agitate | 1 | 07-ai-video-creative-production |
+| `{{AGREEMENTS}}` | agreements | 1 | 11-ip-patent-support |
 | `{{AGREEMENT_ID}}` | agreement id | 3 | 13-roofing |
 | `{{AGREEMENT_REFERENCE}}` | agreement reference | 2 | 05-insurance-medicare-marketing |
 | `{{AI_COST_TARGET}}` | ai cost target | 1 | 08-ai-services-software |
@@ -72,7 +73,7 @@
 | `{{ALT_SEQ}}` | alt seq | 1 | 01-construction |
 | `{{AMENDMENT_NUMBER}}` | amendment number | 1 | 05-insurance-medicare-marketing |
 | `{{AMENDMENT_TYPE}}` | amendment type | 1 | 03-real-estate |
-| `{{AMOUNT}}` | amount | 16 | all |
+| `{{AMOUNT}}` | amount | 20 | all |
 | `{{AMOUNT_FINANCED}}` | amount financed | 1 | 02-automotive-dealership |
 | `{{AMOUNT_REQUESTED}}` | amount requested | 1 | 09-business-admin-finance-compliance |
 | `{{ANCHOR}}` | anchor | 1 | 13-roofing |
@@ -120,7 +121,7 @@
 | `{{ASK_OR_NONE}}` | ask or none | 1 | 09-business-admin-finance-compliance |
 | `{{ASPECT_RATIO}}` | aspect ratio | 3 | 02-automotive-dealership, 07-ai-video-creative-production |
 | `{{ASSETS_PROVIDED}}` | assets provided | 1 | 07-ai-video-creative-production |
-| `{{ASSET_ID}}` | asset id | 1 | 02-automotive-dealership |
+| `{{ASSET_ID}}` | asset id | 2 | 02-automotive-dealership, 11-ip-patent-support |
 | `{{ASSET_IDS}}` | asset ids | 1 | 09-business-admin-finance-compliance |
 | `{{ASSET_LIST_WITH_RIGHTS_STATUS}}` | asset list with rights status | 1 | _shared |
 | `{{ASSET_TAG}}` | asset tag | 1 | 09-business-admin-finance-compliance |
@@ -163,6 +164,7 @@
 | `{{A_VALLEY}}` | a valley | 1 | 13-roofing |
 | `{{A_WALL}}` | a wall | 1 | 13-roofing |
 | `{{BACKLOG_SQUARES}}` | backlog squares | 1 | 13-roofing |
+| `{{BACKUP}}` | backup | 1 | 12-hardware-iot-product-development |
 | `{{BACKUP_FILE}}` | backup file | 1 | 06-publishing |
 | `{{BACKUP_PATH}}` | backup path | 4 | 05-insurance-medicare-marketing, 09-business-admin-finance-compliance, _shared |
 | `{{BACKUP_REFERENCES}}` | backup references | 1 | 04-education |
@@ -351,7 +353,7 @@
 | `{{COMMITMENT}}` | commitment | 1 | _shared |
 | `{{COMMITTED}}` | committed | 1 | 01-construction |
 | `{{COMMIT_REF}}` | commit ref | 1 | 04-education |
-| `{{COMPANY}}` | company | 140 | all |
+| `{{COMPANY}}` | company | 149 | all |
 | `{{COMPANY_ADDRESS}}` | company address | 2 | 13-roofing |
 | `{{COMPANY_ID}}` | company id | 2 | 09-business-admin-finance-compliance |
 | `{{COMPANY_NAME}}` | company name | 1 | _shared |
@@ -369,6 +371,7 @@
 | `{{COMPLIANCE_NOTES}}` | compliance notes | 1 | 07-ai-video-creative-production |
 | `{{COMPLIANCE_STATUS}}` | compliance status | 1 | 09-business-admin-finance-compliance |
 | `{{COMPLICATION}}` | complication | 1 | 06-publishing |
+| `{{COMPONENT}}` | component | 1 | 11-ip-patent-support |
 | `{{COMP_ADDRESS}}` | comp address | 2 | 03-real-estate |
 | `{{COMP_DATE}}` | comp date | 2 | 03-real-estate |
 | `{{COMP_GLA}}` | comp gla | 3 | 03-real-estate |
@@ -383,11 +386,13 @@
 | `{{CONFIRMED_BY}}` | confirmed by | 1 | 13-roofing |
 | `{{CONFIRM_REF}}` | confirm ref | 2 | 13-roofing |
 | `{{CONFLICT_NOTE}}` | conflict note | 1 | 09-business-admin-finance-compliance |
+| `{{CONSENT}}` | consent | 1 | 12-hardware-iot-product-development |
 | `{{CONSENT_BASIS}}` | consent basis | 2 | 05-insurance-medicare-marketing, 13-roofing |
 | `{{CONSENT_CHANNELS}}` | consent channels | 1 | 03-real-estate |
 | `{{CONSENT_DATE}}` | consent date | 1 | 03-real-estate |
 | `{{CONSENT_EXPIRY}}` | consent expiry | 1 | 05-insurance-medicare-marketing |
 | `{{CONSENT_MECHANISM}}` | consent mechanism | 1 | 04-education |
+| `{{CONTACT}}` | contact | 1 | 12-hardware-iot-product-development |
 | `{{CONTACT_BLOCK}}` | contact block | 2 | 01-construction |
 | `{{CONTACT_CHANNEL}}` | contact channel | 1 | 02-automotive-dealership |
 | `{{CONTACT_EMAIL}}` | contact email | 16 | all |
@@ -423,7 +428,8 @@
 | `{{COST_IMPACT_OR_TBD}}` | cost impact or tbd | 1 | 01-construction |
 | `{{COST_UNITS}}` | cost units | 1 | 07-ai-video-creative-production |
 | `{{COUNSEL}}` | counsel | 3 | 13-roofing |
-| `{{COUNSEL_ROLE}}` | counsel role | 1 | 11-ip-patent-support |
+| `{{COUNSEL_REF}}` | counsel ref | 1 | 11-ip-patent-support |
+| `{{COUNSEL_ROLE}}` | counsel role | 2 | 11-ip-patent-support |
 | `{{COUNT}}` | count | 17 | 02-automotive-dealership, 09-business-admin-finance-compliance, _shared |
 | `{{COUNTERPARTY}}` | counterparty | 3 | 05-insurance-medicare-marketing |
 | `{{COUNTERPARTY_SIGNATORY_ROLE}}` | counterparty signatory role | 1 | 05-insurance-medicare-marketing |
@@ -453,8 +459,8 @@
 | `{{CREW_ID}}` | crew id | 2 | 13-roofing |
 | `{{CREW_LEAD}}` | crew lead | 1 | 13-roofing |
 | `{{CREW_SIZE}}` | crew size | 1 | 13-roofing |
-| `{{CRITERIA}}` | criteria | 1 | 12-hardware-iot-product-development |
-| `{{CRITERION}}` | criterion | 1 | 09-business-admin-finance-compliance |
+| `{{CRITERIA}}` | criteria | 2 | 12-hardware-iot-product-development |
+| `{{CRITERION}}` | criterion | 2 | 09-business-admin-finance-compliance, 12-hardware-iot-product-development |
 | `{{CTA}}` | cta | 6 | 02-automotive-dealership, 03-real-estate, 07-ai-video-creative-production |
 | `{{CTA_LINE}}` | cta line | 1 | 02-automotive-dealership |
 | `{{CURE}}` | cure | 1 | _shared |
@@ -470,11 +476,11 @@
 | `{{CUSTOMS_REF}}` | customs ref | 1 | 09-business-admin-finance-compliance |
 | `{{CUT_VERSION}}` | cut version | 1 | 07-ai-video-creative-production |
 | `{{DAMAGE_NOTES}}` | damage notes | 1 | 13-roofing |
-| `{{DATA}}` | data | 1 | 04-education |
+| `{{DATA}}` | data | 2 | 04-education, 12-hardware-iot-product-development |
 | `{{DATA_OR_SYSTEMS}}` | data or systems | 1 | 08-ai-services-software |
 | `{{DATA_SHEET_REF}}` | data sheet ref | 1 | 13-roofing |
 | `{{DATA_SOURCES}}` | data sources | 1 | 06-publishing |
-| `{{DATE}}` | date | 322 | all |
+| `{{DATE}}` | date | 340 | all |
 | `{{DATES}}` | dates | 1 | 10-management-consulting |
 | `{{DATE_AND_TYPE}}` | date and type | 1 | 02-automotive-dealership |
 | `{{DATE_CHANGES}}` | date changes | 1 | 03-real-estate |
@@ -503,6 +509,7 @@
 | `{{DEADLINES_OR_NONE}}` | deadlines or none | 1 | _shared |
 | `{{DEADLINE_ALERT_DAYS}}` | deadline alert days | 2 | 03-real-estate |
 | `{{DEADLINE_DATE}}` | deadline date | 1 | 05-insurance-medicare-marketing |
+| `{{DEADLINE_TYPE}}` | deadline type | 1 | 11-ip-patent-support |
 | `{{DEALERSHIP}}` | dealership | 38 | 02-automotive-dealership |
 | `{{DEAL_REF}}` | deal ref | 16 | 02-automotive-dealership |
 | `{{DEBRIEF}}` | debrief | 1 | 13-roofing |
@@ -527,6 +534,7 @@
 | `{{DELAYS_VERBATIM}}` | delays verbatim | 1 | 01-construction |
 | `{{DELAY_DAYS}}` | delay days | 1 | 13-roofing |
 | `{{DELAY_TYPE}}` | delay type | 1 | 01-construction |
+| `{{DELETION}}` | deletion | 1 | 12-hardware-iot-product-development |
 | `{{DELIVERABLES}}` | deliverables | 1 | _shared |
 | `{{DELIVERIES}}` | deliveries | 1 | 01-construction |
 | `{{DELIVERY_DATE}}` | delivery date | 3 | 01-construction, 02-automotive-dealership |
@@ -542,7 +550,7 @@
 | `{{DEPOSIT_DATE}}` | deposit date | 3 | 13-roofing |
 | `{{DEPOSIT_LIABILITY}}` | deposit liability | 1 | 13-roofing |
 | `{{DEPRECIATION}}` | depreciation | 3 | 13-roofing |
-| `{{DESCRIPTION}}` | description | 15 | all |
+| `{{DESCRIPTION}}` | description | 16 | all |
 | `{{DESTINATION}}` | destination | 1 | 09-business-admin-finance-compliance |
 | `{{DETAILS}}` | details | 1 | 13-roofing |
 | `{{DIFF}}` | diff | 12 | 02-automotive-dealership, 13-roofing |
@@ -587,6 +595,7 @@
 | `{{DUE_DATE_OR_NONE}}` | due date or none | 1 | _shared |
 | `{{DUMPSTER_REF}}` | dumpster ref | 1 | 13-roofing |
 | `{{DUMPSTER_SPOT}}` | dumpster spot | 1 | 13-roofing |
+| `{{DURATION}}` | duration | 1 | 12-hardware-iot-product-development |
 | `{{DURATION_SECONDS}}` | duration seconds | 4 | 07-ai-video-creative-production |
 | `{{EAVE_HEIGHT}}` | eave height | 1 | 13-roofing |
 | `{{EAVE_LF}}` | eave lf | 1 | 13-roofing |
@@ -596,7 +605,7 @@
 | `{{EDGES}}` | edges | 1 | 13-roofing |
 | `{{EDGE_ID}}` | edge id | 1 | 07-ai-video-creative-production |
 | `{{EFFECT}}` | effect | 1 | _shared |
-| `{{EFFECTIVE_DATE}}` | effective date | 5 | 03-real-estate, 05-insurance-medicare-marketing, 09-business-admin-finance-compliance |
+| `{{EFFECTIVE_DATE}}` | effective date | 6 | 03-real-estate, 05-insurance-medicare-marketing, 09-business-admin-finance-compliance, root |
 | `{{EFFORT}}` | effort | 1 | 08-ai-services-software |
 | `{{EMAIL_OR_TEXT}}` | email or text | 1 | 02-automotive-dealership |
 | `{{EMERGENCY_CONTACT}}` | emergency contact | 1 | 13-roofing |
@@ -613,10 +622,11 @@
 | `{{EOR_REFERENCE}}` | eor reference | 1 | 01-construction |
 | `{{EPISODE_TITLE}}` | episode title | 5 | 07-ai-video-creative-production |
 | `{{EQUATION_TEXT}}` | equation text | 1 | 04-education |
-| `{{EQUIPMENT}}` | equipment | 4 | 01-construction, 02-automotive-dealership, 13-roofing |
+| `{{EQUIPMENT}}` | equipment | 5 | 01-construction, 02-automotive-dealership, 12-hardware-iot-product-development, 13-roofing |
 | `{{EQUITY_RESULT}}` | equity result | 1 | 02-automotive-dealership |
 | `{{ERA}}` | era | 1 | 06-publishing |
 | `{{ERROR_TEXT}}` | error text | 1 | 07-ai-video-creative-production |
+| `{{ESCALATION}}` | escalation | 1 | 12-hardware-iot-product-development |
 | `{{ESCALATION_MINUTES}}` | escalation minutes | 2 | 13-roofing |
 | `{{ESCROW_FEE}}` | escrow fee | 3 | 03-real-estate |
 | `{{EST}}` | est | 10 | 13-roofing |
@@ -633,7 +643,7 @@
 | `{{EVENT_LIST}}` | event list | 1 | 04-education |
 | `{{EVENT_TIME}}` | event time | 3 | 03-real-estate, 05-insurance-medicare-marketing |
 | `{{EVENT_TYPE}}` | event type | 2 | 13-roofing |
-| `{{EVIDENCE}}` | evidence | 20 | all |
+| `{{EVIDENCE}}` | evidence | 21 | all |
 | `{{EVIDENCE_DESCRIPTION}}` | evidence description | 1 | 02-automotive-dealership |
 | `{{EVIDENCE_PATH}}` | evidence path | 1 | _shared |
 | `{{EVIDENCE_REF}}` | evidence ref | 4 | 01-construction, 13-roofing |
@@ -687,6 +697,7 @@
 | `{{FILE_HASH}}` | file hash | 1 | 02-automotive-dealership |
 | `{{FILE_NAME}}` | file name | 1 | 13-roofing |
 | `{{FILE_PATH}}` | file path | 4 | 02-automotive-dealership, 09-business-admin-finance-compliance, _shared |
+| `{{FILING_DATE}}` | filing date | 1 | 11-ip-patent-support |
 | `{{FINAL_DATE}}` | final date | 1 | 13-roofing |
 | `{{FINAL_FOLDER}}` | final folder | 1 | 03-real-estate |
 | `{{FINANCE_CONTROLLER}}` | finance controller | 1 | 13-roofing |
@@ -736,6 +747,7 @@
 | `{{FULFILLED_DATE}}` | fulfilled date | 2 | 02-automotive-dealership |
 | `{{FUNDED_DATE}}` | funded date | 1 | 02-automotive-dealership |
 | `{{FUNDER_NAME}}` | funder name | 1 | 09-business-admin-finance-compliance |
+| `{{FW_VERSION}}` | fw version | 1 | 12-hardware-iot-product-development |
 | `{{FY}}` | fy | 1 | 01-construction |
 | `{{GAP}}` | gap | 1 | 09-business-admin-finance-compliance |
 | `{{GAPS}}` | gaps | 1 | 02-automotive-dealership |
@@ -759,7 +771,7 @@
 | `{{GOODWILL}}` | goodwill | 1 | 13-roofing |
 | `{{GOOD_SCOPE}}` | good scope | 1 | 13-roofing |
 | `{{GOOD_WARRANTY}}` | good warranty | 1 | 13-roofing |
-| `{{GOVERNING_LAW}}` | governing law | 2 | 13-roofing |
+| `{{GOVERNING_LAW}}` | governing law | 3 | 13-roofing, root |
 | `{{GO_NO_GO}}` | go no go | 1 | 13-roofing |
 | `{{GO_WHO}}` | go who | 2 | 07-ai-video-creative-production |
 | `{{GRADE}}` | grade | 7 | 02-automotive-dealership |
@@ -783,6 +795,7 @@
 | `{{HARD_RULE}}` | hard rule | 1 | _shared |
 | `{{HARNESS_COMMAND}}` | harness command | 1 | 13-roofing |
 | `{{HARNESS_OUTPUT}}` | harness output | 1 | 13-roofing |
+| `{{HASH}}` | hash | 1 | 12-hardware-iot-product-development |
 | `{{HEADCOUNT}}` | headcount | 1 | 10-management-consulting |
 | `{{HEADLINE_NUMBER}}` | headline number | 1 | _shared |
 | `{{HEADLINE_NUMBER_OR_FACT}}` | headline number or fact | 1 | _shared |
@@ -799,6 +812,7 @@
 | `{{HOA_DETAIL}}` | hoa detail | 1 | 03-real-estate |
 | `{{HOA_FEES}}` | hoa fees | 3 | 03-real-estate |
 | `{{HOISTING}}` | hoisting | 1 | 13-roofing |
+| `{{HOLD}}` | hold | 1 | 12-hardware-iot-product-development |
 | `{{HOLDBACK}}` | holdback | 2 | 13-roofing |
 | `{{HOLDBACK_PERCENT}}` | holdback percent | 2 | 13-roofing |
 | `{{HOLDER_ROLE}}` | holder role | 1 | 02-automotive-dealership |
@@ -812,6 +826,7 @@
 | `{{HOURS_OR_QTY}}` | hours or qty | 1 | 01-construction |
 | `{{HUMAN_INPUT}}` | human input | 1 | 06-publishing |
 | `{{HUMAN_NAME_ROLE}}` | human name role | 1 | 06-publishing |
+| `{{HW_REV}}` | hw rev | 1 | 12-hardware-iot-product-development |
 | `{{HYPOTHESIS}}` | hypothesis | 1 | 08-ai-services-software |
 | `{{ICE_BARRIER}}` | ice barrier | 1 | 13-roofing |
 | `{{ICE_ROLLS}}` | ice rolls | 1 | 13-roofing |
@@ -873,13 +888,13 @@
 | `{{ISSUER}}` | issuer | 1 | 02-automotive-dealership |
 | `{{ISSUES}}` | issues | 3 | 02-automotive-dealership, 13-roofing |
 | `{{ISSUE_SUMMARY}}` | issue summary | 1 | _shared |
-| `{{ITEM}}` | item | 19 | all |
+| `{{ITEM}}` | item | 20 | all |
 | `{{ITEMS}}` | items | 1 | 13-roofing |
 | `{{ITEMS_REQUESTED}}` | items requested | 1 | 05-insurance-medicare-marketing |
 | `{{ITEM_1}}` | item 1 | 2 | 02-automotive-dealership |
 | `{{ITEM_2}}` | item 2 | 1 | 02-automotive-dealership |
 | `{{ITEM_CODE}}` | item code | 1 | 13-roofing |
-| `{{ITEM_ID}}` | item id | 1 | 01-construction |
+| `{{ITEM_ID}}` | item id | 2 | 01-construction, 11-ip-patent-support |
 | `{{IT_DIRECTOR}}` | it director | 3 | 02-automotive-dealership, 03-real-estate |
 | `{{KEYWORD}}` | keyword | 1 | 04-education |
 | `{{KNOWN_ISSUES}}` | known issues | 1 | 04-education |
@@ -909,10 +924,13 @@
 | `{{LESSONS}}` | lessons | 1 | 04-education |
 | `{{LEVEL}}` | level | 12 | 02-automotive-dealership, 09-business-admin-finance-compliance, _shared |
 | `{{LICENSED_ROLE}}` | licensed role | 1 | 02-automotive-dealership |
+| `{{LICENSE_CONTACT}}` | license contact | 1 | root |
 | `{{LICENSE_EXPIRY}}` | license expiry | 6 | 02-automotive-dealership |
+| `{{LICENSE_ID}}` | license id | 1 | 11-ip-patent-support |
 | `{{LICENSE_NOTE}}` | license note | 1 | 02-automotive-dealership |
 | `{{LICENSE_NUMBER}}` | license number | 19 | 02-automotive-dealership, 03-real-estate, 13-roofing, _shared |
 | `{{LICENSE_SCOPE}}` | license scope | 1 | 06-publishing |
+| `{{LICENSOR_NAME}}` | licensor name | 1 | root |
 | `{{LIENHOLDER}}` | lienholder | 1 | 02-automotive-dealership |
 | `{{LIEN_LANGUAGE}}` | lien language | 1 | 13-roofing |
 | `{{LIFECYCLE_SCHEDULE}}` | lifecycle schedule | 1 | 09-business-admin-finance-compliance |
@@ -923,7 +941,7 @@
 | `{{LINE_ID}}` | line id | 3 | 01-construction, 05-insurance-medicare-marketing |
 | `{{LINE_NO}}` | line no | 1 | 13-roofing |
 | `{{LINE_TOTAL}}` | line total | 2 | 01-construction, 09-business-admin-finance-compliance |
-| `{{LIST}}` | list | 7 | 09-business-admin-finance-compliance, _shared |
+| `{{LIST}}` | list | 8 | 09-business-admin-finance-compliance, 12-hardware-iot-product-development, _shared |
 | `{{LISTING_COMMISSION_PCT}}` | listing commission pct | 1 | 03-real-estate |
 | `{{LISTING_SERVICES_SUMMARY}}` | listing services summary | 1 | 03-real-estate |
 | `{{LISTING_TYPE}}` | listing type | 1 | 03-real-estate |
@@ -935,7 +953,7 @@
 | `{{LOCAL_AMENDMENTS}}` | local amendments | 1 | 13-roofing |
 | `{{LOCAL_CODE_OFFICE}}` | local code office | 4 | 13-roofing |
 | `{{LOCAL_MARKUP}}` | local markup | 2 | 13-roofing |
-| `{{LOCATION}}` | location | 8 | all |
+| `{{LOCATION}}` | location | 9 | all |
 | `{{LOCATIONS}}` | locations | 1 | 07-ai-video-creative-production |
 | `{{LOCATION_NAME}}` | location name | 3 | 06-publishing, 07-ai-video-creative-production |
 | `{{LOCATION_REF}}` | location ref | 1 | 11-ip-patent-support |
@@ -984,7 +1002,7 @@
 | `{{MAX_CANDIDATES}}` | max candidates | 1 | 11-ip-patent-support |
 | `{{MAX_ERRORS}}` | max errors | 1 | 07-ai-video-creative-production |
 | `{{MAX_FILES}}` | max files | 3 | 08-ai-services-software |
-| `{{MAX_UPLOADS_PER_WEEK}}` | max uploads per week | 2 | 07-ai-video-creative-production |
+| `{{MAX_UPLOADS_PER_WEEK}}` | max uploads per week | 3 | 07-ai-video-creative-production |
 | `{{MEAN}}` | mean | 1 | 07-ai-video-creative-production |
 | `{{MEASURABLE_OBJECTIVE}}` | measurable objective | 1 | _shared |
 | `{{MEASURE}}` | measure | 2 | _shared |
@@ -1004,7 +1022,7 @@
 | `{{MESSAGE_1}}` | message 1 | 1 | 07-ai-video-creative-production |
 | `{{MESSAGE_2}}` | message 2 | 1 | 07-ai-video-creative-production |
 | `{{MESSAGE_3}}` | message 3 | 1 | 07-ai-video-creative-production |
-| `{{METHOD}}` | method | 2 | 13-roofing, _shared |
+| `{{METHOD}}` | method | 3 | 12-hardware-iot-product-development, 13-roofing, _shared |
 | `{{METRIC}}` | metric | 1 | 12-hardware-iot-product-development |
 | `{{MILEAGE}}` | mileage | 10 | 02-automotive-dealership |
 | `{{MILEAGE_SOURCE}}` | mileage source | 2 | 02-automotive-dealership |
@@ -1033,6 +1051,7 @@
 | `{{MONEY_LAW_SAFETY_OR_NOTHING}}` | money law safety or nothing | 1 | _shared |
 | `{{MONTHS}}` | months | 1 | 03-real-estate |
 | `{{MOOD}}` | mood | 1 | 07-ai-video-creative-production |
+| `{{MOQ}}` | moq | 1 | 12-hardware-iot-product-development |
 | `{{MORTGAGEE_YN}}` | mortgagee yn | 1 | 13-roofing |
 | `{{MOTIFS}}` | motifs | 1 | 07-ai-video-creative-production |
 | `{{MOTION_RULES}}` | motion rules | 1 | 07-ai-video-creative-production |
@@ -1054,7 +1073,7 @@
 | `{{M_RIDGE}}` | m ridge | 1 | 13-roofing |
 | `{{M_VALLEY}}` | m valley | 1 | 13-roofing |
 | `{{M_WALL}}` | m wall | 1 | 13-roofing |
-| `{{N}}` | n | 17 | 05-insurance-medicare-marketing, 09-business-admin-finance-compliance, 13-roofing, _shared |
+| `{{N}}` | n | 23 | all |
 | `{{NAPKIN_DRAFT_FINAL_FROZEN}}` | napkin draft final frozen | 1 | 04-education |
 | `{{NARRATION_AI_ROLE}}` | narration ai role | 1 | 06-publishing |
 | `{{NARRATION_HUMAN_WORK}}` | narration human work | 1 | 06-publishing |
@@ -1080,7 +1099,7 @@
 | `{{NEW_TERM}}` | new term | 1 | 03-real-estate |
 | `{{NEXT}}` | next | 1 | _shared |
 | `{{NEXT_ACTION}}` | next action | 3 | 02-automotive-dealership, 03-real-estate, 07-ai-video-creative-production |
-| `{{NEXT_DEADLINE}}` | next deadline | 1 | 13-roofing |
+| `{{NEXT_DEADLINE}}` | next deadline | 2 | 11-ip-patent-support, 13-roofing |
 | `{{NEXT_PERIOD_PLAN}}` | next period plan | 1 | 09-business-admin-finance-compliance |
 | `{{NEXT_STEP}}` | next step | 6 | all |
 | `{{NEXT_STEP_1}}` | next step 1 | 1 | 02-automotive-dealership |
@@ -1091,7 +1110,7 @@
 | `{{NODE_TYPE}}` | node type | 2 | 07-ai-video-creative-production |
 | `{{NON_RETALIATION_NOTE}}` | non retaliation note | 1 | 08-ai-services-software |
 | `{{NOTE}}` | note | 13 | all |
-| `{{NOTES}}` | notes | 23 | all |
+| `{{NOTES}}` | notes | 24 | all |
 | `{{NOTES_CHAR_LIMIT}}` | notes char limit | 2 | 04-education |
 | `{{NOTICE_DATE}}` | notice date | 1 | 13-roofing |
 | `{{NOTICE_DEADLINE}}` | notice deadline | 1 | 01-construction |
@@ -1180,13 +1199,14 @@
 | `{{OVERHEAD_RATE}}` | overhead rate | 1 | 13-roofing |
 | `{{OVERRIDES}}` | overrides | 1 | 08-ai-services-software |
 | `{{OVERVIEW}}` | overview | 1 | 07-ai-video-creative-production |
-| `{{OWNER}}` | owner | 129 | all |
+| `{{OWNER}}` | owner | 131 | all |
 | `{{OWNER_APPROVAL_STEP}}` | owner approval step | 1 | 04-education |
+| `{{OWNER_ENTITY}}` | owner entity | 1 | 11-ip-patent-support |
 | `{{OWNER_INITIALS}}` | owner initials | 1 | 02-automotive-dealership |
 | `{{OWNER_NAME_ROLE}}` | owner name role | 1 | 02-automotive-dealership |
 | `{{OWNER_PREFERENCES}}` | owner preferences | 1 | 03-real-estate |
 | `{{OWNER_PRICE}}` | owner price | 1 | 02-automotive-dealership |
-| `{{OWNER_ROLE}}` | owner role | 92 | all |
+| `{{OWNER_ROLE}}` | owner role | 94 | all |
 | `{{OWNER_ROLE_OR_NAMED_CONTACT_ROLE}}` | owner role or named contact role | 1 | _shared |
 | `{{OWNER_SIGNATURE}}` | owner signature | 3 | 02-automotive-dealership |
 | `{{PACK}}` | pack | 1 | 02-automotive-dealership |
@@ -1201,11 +1221,13 @@
 | `{{PALETTE}}` | palette | 3 | 03-real-estate, 06-publishing |
 | `{{PARITY_RESULT}}` | parity result | 1 | 04-education |
 | `{{PARTY}}` | party | 1 | 13-roofing |
+| `{{PART_OR_SERVICE}}` | part or service | 1 | 12-hardware-iot-product-development |
+| `{{PART_REF}}` | part ref | 1 | 12-hardware-iot-product-development |
 | `{{PASS_FAIL}}` | pass fail | 7 | 03-real-estate, 04-education, 13-roofing, _shared |
 | `{{PASS_FAIL_SKIP}}` | pass fail skip | 1 | _shared |
 | `{{PASS_FIX_BLOCK}}` | pass fix block | 3 | _shared |
 | `{{PASS_OR_BLOCK}}` | pass or block | 2 | _shared |
-| `{{PATH}}` | path | 24 | 02-automotive-dealership, 04-education, _shared |
+| `{{PATH}}` | path | 26 | 02-automotive-dealership, 04-education, 11-ip-patent-support, _shared |
 | `{{PATH_A_RESULT}}` | path a result | 1 | 01-construction |
 | `{{PATH_B_RESULT}}` | path b result | 1 | 01-construction |
 | `{{PAUSE_SECONDS}}` | pause seconds | 1 | 07-ai-video-creative-production |
@@ -1229,7 +1251,7 @@
 | `{{PENDING_PIECES_LIST}}` | pending pieces list | 1 | 05-insurance-medicare-marketing |
 | `{{PENETRATION_NOTES}}` | penetration notes | 1 | 13-roofing |
 | `{{PEOPLE_SERVED}}` | people served | 1 | 07-ai-video-creative-production |
-| `{{PERCENT}}` | percent | 1 | 02-automotive-dealership |
+| `{{PERCENT}}` | percent | 3 | 02-automotive-dealership, 12-hardware-iot-product-development |
 | `{{PERFORMANCE_TARGETS}}` | performance targets | 1 | 07-ai-video-creative-production |
 | `{{PERIOD}}` | period | 4 | 02-automotive-dealership, 05-insurance-medicare-marketing, 09-business-admin-finance-compliance, _shared |
 | `{{PERIOD_END}}` | period end | 1 | 01-construction |
@@ -1249,7 +1271,7 @@
 | `{{PERSON_NAME}}` | person name | 1 | 13-roofing |
 | `{{PERSON_TYPE}}` | person type | 1 | 13-roofing |
 | `{{PER_BUILDING_TABLE}}` | per building table | 1 | 01-construction |
-| `{{PHASE}}` | phase | 1 | 12-hardware-iot-product-development |
+| `{{PHASE}}` | phase | 2 | 12-hardware-iot-product-development |
 | `{{PHASE_DONE}}` | phase done | 1 | 04-education |
 | `{{PHASE_FROM}}` | phase from | 1 | 04-education |
 | `{{PHASE_TO}}` | phase to | 1 | 04-education |
@@ -1264,8 +1286,8 @@
 | `{{PIECE_IDS}}` | piece ids | 1 | 01-construction |
 | `{{PIECE_MARK}}` | piece mark | 1 | 01-construction |
 | `{{PITCH}}` | pitch | 3 | 13-roofing |
-| `{{PLACEHOLDER}}` | placeholder | 2 |  |
-| `{{PLACEHOLDERS}}` | placeholders | 3 | 13-roofing |
+| `{{PLACEHOLDER}}` | placeholder | 2 | root |
+| `{{PLACEHOLDERS}}` | placeholders | 6 | 01-construction, 02-automotive-dealership, 13-roofing |
 | `{{PLAIN_DESCRIPTION_OF_ISSUE}}` | plain description of issue | 1 | 08-ai-services-software |
 | `{{PLAN}}` | plan | 1 | _shared |
 | `{{PLANNED}}` | planned | 1 | 11-ip-patent-support |
@@ -1342,6 +1364,7 @@
 | `{{PROBLEM_YOU_SOLVE_AND_ONE_CREDIBILITY_LINE_WITH_SOURCE}}` | problem you solve and one credibility line with source | 1 | _shared |
 | `{{PROCEDURES_SUMMARY}}` | procedures summary | 1 | 09-business-admin-finance-compliance |
 | `{{PROCEDURE_NAME}}` | procedure name | 2 | 08-ai-services-software |
+| `{{PROCESS}}` | process | 1 | 12-hardware-iot-product-development |
 | `{{PRODUCER}}` | producer | 1 | 07-ai-video-creative-production |
 | `{{PRODUCTION_MANAGER}}` | production manager | 5 | 13-roofing |
 | `{{PRODUCTION_PHONE}}` | production phone | 1 | 13-roofing |
@@ -1355,7 +1378,7 @@
 | `{{PRODUCT_LINE}}` | product line | 3 | 13-roofing |
 | `{{PRODUCT_LIST}}` | product list | 1 | 13-roofing |
 | `{{PRODUCT_LIST_WITH_PRICES}}` | product list with prices | 1 | 02-automotive-dealership |
-| `{{PRODUCT_NAME}}` | product name | 2 | 07-ai-video-creative-production, _shared |
+| `{{PRODUCT_NAME}}` | product name | 7 | 07-ai-video-creative-production, 11-ip-patent-support, 12-hardware-iot-product-development, _shared |
 | `{{PRODUCT_REF}}` | product ref | 10 | 13-roofing |
 | `{{PROGRAM}}` | program | 1 | 09-business-admin-finance-compliance |
 | `{{PROGRAM_NAME}}` | program name | 2 | 09-business-admin-finance-compliance |
@@ -1402,7 +1425,7 @@
 | `{{Q5}}` | q5 | 1 | 03-real-estate |
 | `{{QA_SIGNOFF}}` | qa signoff | 1 | 04-education |
 | `{{QC_DATE}}` | qc date | 1 | 13-roofing |
-| `{{QTY}}` | qty | 7 | 01-construction, 09-business-admin-finance-compliance, 13-roofing, _shared |
+| `{{QTY}}` | qty | 8 | all |
 | `{{QTY_ORDERED}}` | qty ordered | 1 | 01-construction |
 | `{{QTY_RECEIVED}}` | qty received | 1 | 01-construction |
 | `{{QUALITY_SCORE}}` | quality score | 1 | 13-roofing |
@@ -1506,6 +1529,7 @@
 | `{{REQUIRED_DISCLOSURES}}` | required disclosures | 1 | 07-ai-video-creative-production |
 | `{{REQUIRED_ECOA_STATEMENT_TEXT}}` | required ecoa statement text | 1 | 02-automotive-dealership |
 | `{{REQ_CERTS}}` | req certs | 1 | 13-roofing |
+| `{{REQ_ID}}` | req id | 1 | 12-hardware-iot-product-development |
 | `{{REQ_INSURANCE}}` | req insurance | 1 | 13-roofing |
 | `{{REQ_SAFETY}}` | req safety | 1 | 13-roofing |
 | `{{REQ_SCHEDULE}}` | req schedule | 1 | 13-roofing |
@@ -1530,7 +1554,7 @@
 | `{{RESULT}}` | result | 35 | all |
 | `{{RETAINAGE}}` | retainage | 1 | 01-construction |
 | `{{RETAINER_TERMS}}` | retainer terms | 1 | 10-management-consulting |
-| `{{RETENTION}}` | retention | 2 | 04-education, _shared |
+| `{{RETENTION}}` | retention | 3 | 04-education, 12-hardware-iot-product-development, _shared |
 | `{{RETENTION_DATE}}` | retention date | 2 | 02-automotive-dealership, 06-publishing |
 | `{{RETENTION_DAYS}}` | retention days | 1 | 08-ai-services-software |
 | `{{RETENTION_END}}` | retention end | 1 | 05-insurance-medicare-marketing |
@@ -1555,7 +1579,7 @@
 | `{{REVIEW_LINK}}` | review link | 3 | 02-automotive-dealership, 13-roofing |
 | `{{REVIEW_REF}}` | review ref | 1 | 02-automotive-dealership |
 | `{{REVIEW_TEXT}}` | review text | 1 | 02-automotive-dealership |
-| `{{REVISION}}` | revision | 2 | _shared |
+| `{{REVISION}}` | revision | 4 | 12-hardware-iot-product-development, _shared |
 | `{{REVISION_ROUNDS}}` | revision rounds | 1 | 07-ai-video-creative-production |
 | `{{RFI_NUMBER}}` | rfi number | 2 | 01-construction |
 | `{{RIDGE_CAP}}` | ridge cap | 2 | 13-roofing |
@@ -1566,7 +1590,8 @@
 | `{{RISK_ID}}` | risk id | 1 | 01-construction |
 | `{{RISK_REGISTER_PATH}}` | risk register path | 1 | 01-construction |
 | `{{RISK_TYPE}}` | risk type | 1 | 01-construction |
-| `{{ROLE}}` | role | 33 | all |
+| `{{ROLE}}` | role | 40 | all |
+| `{{ROLES}}` | roles | 1 | 11-ip-patent-support |
 | `{{ROLE_1}}` | role 1 | 1 | 10-management-consulting |
 | `{{ROLE_2}}` | role 2 | 1 | 10-management-consulting |
 | `{{ROLE_3}}` | role 3 | 1 | 10-management-consulting |
@@ -1617,7 +1642,7 @@
 | `{{SCOPE_NARRATIVE}}` | scope narrative | 2 | 01-construction, _shared |
 | `{{SCOPE_PACKAGE}}` | scope package | 2 | 01-construction |
 | `{{SCOPE_TODAY}}` | scope today | 1 | 13-roofing |
-| `{{SCORE}}` | score | 11 | 02-automotive-dealership, 06-publishing |
+| `{{SCORE}}` | score | 12 | 02-automotive-dealership, 06-publishing, 12-hardware-iot-product-development |
 | `{{SCREENSHOT_LIST}}` | screenshot list | 1 | 04-education |
 | `{{SCRIPT_VERSION}}` | script version | 2 | 07-ai-video-creative-production |
 | `{{SECONDS}}` | seconds | 8 | 02-automotive-dealership, 03-real-estate, 07-ai-video-creative-production, _shared |
@@ -1657,6 +1682,7 @@
 | `{{SIGNATURE_BLOCK}}` | signature block | 9 | 01-construction, 02-automotive-dealership, 09-business-admin-finance-compliance, _shared |
 | `{{SIGNATURE_LINE}}` | signature line | 2 | 07-ai-video-creative-production |
 | `{{SINGLE_CALL_TO_ACTION_EASY_YES_OR_NO}}` | single call to action easy yes or no | 1 | _shared |
+| `{{SITES}}` | sites | 1 | 12-hardware-iot-product-development |
 | `{{SITE_HAZARDS}}` | site hazards | 1 | 13-roofing |
 | `{{SIZE}}` | size | 1 | 08-ai-services-software |
 | `{{SKILLS}}` | skills | 1 | _shared |
@@ -1676,6 +1702,7 @@
 | `{{SOURCE}}` | source | 18 | all |
 | `{{SOURCES}}` | sources | 2 | 04-education, 08-ai-services-software |
 | `{{SOURCE_1}}` | source 1 | 1 | 07-ai-video-creative-production |
+| `{{SOURCE_DOC}}` | source doc | 2 | 11-ip-patent-support |
 | `{{SOURCE_NODE}}` | source node | 1 | 07-ai-video-creative-production |
 | `{{SOURCE_PATH}}` | source path | 8 | 02-automotive-dealership, 09-business-admin-finance-compliance, _shared |
 | `{{SOURCE_REF}}` | source ref | 3 | 02-automotive-dealership, 06-publishing |
@@ -1710,12 +1737,12 @@
 | `{{START_STATE}}` | start state | 1 | 07-ai-video-creative-production |
 | `{{START_TIME}}` | start time | 2 | 07-ai-video-creative-production |
 | `{{START_WINDOW}}` | start window | 2 | 13-roofing |
-| `{{STATE}}` | state | 27 | 02-automotive-dealership, 04-education, 13-roofing, _shared |
+| `{{STATE}}` | state | 28 | 02-automotive-dealership, 04-education, 13-roofing, _shared |
 | `{{STATEMENT}}` | statement | 1 | 02-automotive-dealership |
 | `{{STATEMENT_REFERENCE}}` | statement reference | 1 | 05-insurance-medicare-marketing |
 | `{{STATE_FORMS}}` | state forms | 1 | 03-real-estate |
 | `{{STATE_RULES}}` | state rules | 7 | 03-real-estate, 13-roofing |
-| `{{STATUS}}` | status | 60 | all |
+| `{{STATUS}}` | status | 61 | all |
 | `{{STDDEV}}` | stddev | 1 | 07-ai-video-creative-production |
 | `{{STEP}}` | step | 2 | _shared |
 | `{{STICKS}}` | sticks | 1 | 13-roofing |
@@ -1744,6 +1771,7 @@
 | `{{SUPPLIER}}` | supplier | 1 | 13-roofing |
 | `{{SUPPLIER_CONTACT}}` | supplier contact | 2 | 13-roofing |
 | `{{SUPPLIER_QUOTE_SUMMARY}}` | supplier quote summary | 1 | 01-construction |
+| `{{SUPPLIER_ROLE}}` | supplier role | 2 | 12-hardware-iot-product-development |
 | `{{SUPPORT_DEPARTMENTS}}` | support departments | 1 | _shared |
 | `{{SUPPORT_HOURS}}` | support hours | 1 | 08-ai-services-software |
 | `{{SURFACE}}` | surface | 7 | 02-automotive-dealership, 13-roofing |
@@ -1761,7 +1789,7 @@
 | `{{TAKEOFF_STATUS}}` | takeoff status | 1 | 01-construction |
 | `{{TALKS}}` | talks | 1 | 13-roofing |
 | `{{TALK_LEADER}}` | talk leader | 1 | 13-roofing |
-| `{{TARGET}}` | target | 3 | 09-business-admin-finance-compliance, _shared |
+| `{{TARGET}}` | target | 4 | 09-business-admin-finance-compliance, 12-hardware-iot-product-development, _shared |
 | `{{TARGET_DATE}}` | target date | 1 | 02-automotive-dealership |
 | `{{TARGET_GROSS_MARGIN}}` | target gross margin | 6 | 13-roofing |
 | `{{TARGET_MARGIN_PCT}}` | target margin pct | 1 | 01-construction |
@@ -1794,6 +1822,8 @@
 | `{{TERM_MONTHS}}` | term months | 4 | 02-automotive-dealership |
 | `{{TERM_START}}` | term start | 1 | 13-roofing |
 | `{{TESTABLE_CRITERION}}` | testable criterion | 2 | 04-education |
+| `{{TEST_ID}}` | test id | 1 | 12-hardware-iot-product-development |
+| `{{TEST_IDS}}` | test ids | 1 | 12-hardware-iot-product-development |
 | `{{TEST_PLAN}}` | test plan | 1 | 04-education |
 | `{{TEST_REFERENCE}}` | test reference | 1 | 04-education |
 | `{{TEST_SQUARE_ID}}` | test square id | 1 | 13-roofing |
@@ -1811,6 +1841,9 @@
 | `{{TICKET_ID}}` | ticket id | 2 | 13-roofing |
 | `{{TIER}}` | tier | 5 | 08-ai-services-software, 09-business-admin-finance-compliance, _shared |
 | `{{TIER1_LIST}}` | tier1 list | 1 | 04-education |
+| `{{TIER_1}}` | tier 1 | 1 | 12-hardware-iot-product-development |
+| `{{TIER_2}}` | tier 2 | 1 | 12-hardware-iot-product-development |
+| `{{TIER_3}}` | tier 3 | 1 | 12-hardware-iot-product-development |
 | `{{TIER_DEFINITIONS}}` | tier definitions | 1 | 09-business-admin-finance-compliance |
 | `{{TIME}}` | time | 3 | 04-education, 07-ai-video-creative-production, _shared |
 | `{{TIMELINE}}` | timeline | 1 | 06-publishing |
@@ -1820,6 +1853,7 @@
 | `{{TITLE_2}}` | title 2 | 1 | 06-publishing |
 | `{{TITLE_3}}` | title 3 | 1 | 06-publishing |
 | `{{TITLE_CLERK}}` | title clerk | 5 | 02-automotive-dealership |
+| `{{TITLE_OR_MARK}}` | title or mark | 1 | 11-ip-patent-support |
 | `{{TITLE_POLICY}}` | title policy | 3 | 03-real-estate |
 | `{{TITLE_REF}}` | title ref | 1 | 02-automotive-dealership |
 | `{{TITLE_STATUS}}` | title status | 4 | 02-automotive-dealership |
@@ -1900,7 +1934,7 @@
 | `{{UNDERLAY_BETTER}}` | underlay better | 1 | 13-roofing |
 | `{{UNDERLAY_GOOD}}` | underlay good | 1 | 13-roofing |
 | `{{UNIT}}` | unit | 6 | 01-construction, 09-business-admin-finance-compliance, 13-roofing, _shared |
-| `{{UNITS}}` | units | 1 | _shared |
+| `{{UNITS}}` | units | 2 | 12-hardware-iot-product-development, _shared |
 | `{{UNIT_COST}}` | unit cost | 1 | 12-hardware-iot-product-development |
 | `{{UNIT_COUNT}}` | unit count | 1 | 04-education |
 | `{{UNIT_ID}}` | unit id | 2 | 09-business-admin-finance-compliance |
@@ -1912,6 +1946,7 @@
 | `{{UPDATES}}` | updates | 1 | 03-real-estate |
 | `{{UPPER_SNAKE_CASE}}` | upper snake case | 5 | _shared |
 | `{{URGENCY}}` | urgency | 1 | 13-roofing |
+| `{{URL}}` | url | 1 | 11-ip-patent-support |
 | `{{USER_COUNT}}` | user count | 1 | 08-ai-services-software |
 | `{{USER_VISIBLE_CHANGE_ONE_OR_TWO_SENTENCES}}` | user visible change one or two sentences | 1 | 04-education |
 | `{{USE_OF_FUNDS}}` | use of funds | 1 | 12-hardware-iot-product-development |
@@ -1952,7 +1987,7 @@
 | `{{VERIFIED_SQUARES}}` | verified squares | 1 | 13-roofing |
 | `{{VERIFIER}}` | verifier | 4 | 02-automotive-dealership, 13-roofing |
 | `{{VERIFY_OFFICE}}` | verify office | 5 | 02-automotive-dealership |
-| `{{VERSION}}` | version | 13 | 03-real-estate, 04-education, _shared |
+| `{{VERSION}}` | version | 17 | all |
 | `{{VERSION_SUFFIX}}` | version suffix | 1 | 01-construction |
 | `{{VERTICAL}}` | vertical | 1 | 08-ai-services-software |
 | `{{VIDEO_TYPE}}` | video type | 1 | 07-ai-video-creative-production |
@@ -1975,6 +2010,7 @@
 | `{{WAITING}}` | waiting | 1 | 13-roofing |
 | `{{WAIVER_TYPE}}` | waiver type | 1 | 13-roofing |
 | `{{WALKTHROUGH_DATE}}` | walkthrough date | 1 | 13-roofing |
+| `{{WARNING_WINDOWS}}` | warning windows | 1 | 11-ip-patent-support |
 | `{{WARN_STRING}}` | warn string | 1 | 07-ai-video-creative-production |
 | `{{WARRANTY_FORM_REF}}` | warranty form ref | 1 | 13-roofing |
 | `{{WARRANTY_REF}}` | warranty ref | 1 | 13-roofing |
@@ -1989,9 +2025,10 @@
 | `{{WEATHER_PLAN}}` | weather plan | 1 | 13-roofing |
 | `{{WEBSITE}}` | website | 2 | 02-automotive-dealership, 03-real-estate |
 | `{{WEEK}}` | week | 10 | 13-roofing |
+| `{{WEEKS}}` | weeks | 1 | 12-hardware-iot-product-development |
 | `{{WEEK_ENDING}}` | week ending | 2 | 13-roofing |
 | `{{WEEK_END_DATE}}` | week end date | 1 | 01-construction |
-| `{{WEIGHT}}` | weight | 1 | 09-business-admin-finance-compliance |
+| `{{WEIGHT}}` | weight | 9 | 09-business-admin-finance-compliance, 12-hardware-iot-product-development |
 | `{{WELCOME_NOTE_PRINCIPAL_VOICE}}` | welcome note principal voice | 1 | 05-insurance-medicare-marketing |
 | `{{WELDER_ID}}` | welder id | 1 | 01-construction |
 | `{{WET_INSULATION_UNIT_PRICE}}` | wet insulation unit price | 1 | 13-roofing |
@@ -2002,7 +2039,7 @@
 | `{{WHAT_SHIPPED}}` | what shipped | 1 | _shared |
 | `{{WHAT_THE_OWNER_HAS_AUTHORIZED_OR_NONE}}` | what the owner has authorized or none | 1 | _shared |
 | `{{WHAT_WOULD_CURE_IT}}` | what would cure it | 1 | _shared |
-| `{{WHERE}}` | where | 2 | 02-automotive-dealership, 04-education |
+| `{{WHERE}}` | where | 3 | 02-automotive-dealership, 04-education, 11-ip-patent-support |
 | `{{WHETHER_DATA_WAS_ACCESSED}}` | whether data was accessed | 1 | 08-ai-services-software |
 | `{{WHO}}` | who | 1 | 02-automotive-dealership |
 | `{{WHO_AND_WHAT_THEY_DO_NEXT}}` | who and what they do next | 1 | _shared |
@@ -2016,6 +2053,7 @@
 | `{{WITNESSES}}` | witnesses | 1 | 13-roofing |
 | `{{WORDS}}` | words | 2 | 06-publishing |
 | `{{WORDS_PER_CHAPTER}}` | words per chapter | 1 | 06-publishing |
+| `{{WORDS_PER_SECOND}}` | words per second | 3 | 07-ai-video-creative-production |
 | `{{WORDS_PER_SPREAD}}` | words per spread | 1 | 06-publishing |
 | `{{WORD_BUDGET}}` | word budget | 4 | 06-publishing |
 | `{{WORKER_NAME}}` | worker name | 1 | 13-roofing |

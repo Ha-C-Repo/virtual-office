@@ -1,5 +1,42 @@
-MIT License
+DRAFT COMMERCIAL LICENSE - NOT REVIEWED BY AN ATTORNEY. Have qualified counsel review and complete the bracketed fields before relying on it.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+Virtual Office - Commercial License
+Version 1.0, effective {{EFFECTIVE_DATE}}
+Licensor: {{LICENSOR_NAME}} ("Licensor")
+Contact: {{LICENSE_CONTACT}}
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+1. Definitions.
+"Materials" means all files in this repository and in any copy or export of it: agents, skills, templates, workflows, knowledge files, scripts and documentation.
+"Licensee" means the person or organization that obtained a license from Licensor under a written order, invoice or agreement.
+"Permitted Business" means the Licensee's own internal business operations, for the number of departments and seats stated in the order.
+
+2. Grant.
+Subject to payment of the fees in the order and to this license, Licensor grants Licensee a non-exclusive, non-transferable, non-sublicensable, revocable license to download, copy, modify and use the Materials for the Permitted Business only.
+
+3. Restrictions. Licensee shall not, and shall not allow others to:
+(a) resell, sublicense, rent, lease, publish, host for third parties, or otherwise distribute the Materials or any substantial portion of them, whether modified or not, including as part of a template pack, prompt library, course, software product or service;
+(b) use the Materials to build a product or service that competes with the Materials;
+(c) remove or alter license, copyright or attribution notices;
+(d) use the Materials to train or fine-tune a machine learning model that is distributed or offered to others;
+(e) use the Materials in violation of law, or in place of advice from a licensed professional.
+
+4. Ownership.
+Licensor retains all right, title and interest in the Materials. Licensee owns its own data, filled-in placeholders and outputs it creates, but not the Materials embedded in them.
+
+5. No professional advice.
+The Materials are general organizational aids. They are not legal, tax, medical, financial, insurance, engineering, safety or regulatory advice. Licensee is responsible for confirming every legal and regulatory matter with qualified professionals.
+
+6. Warranty disclaimer.
+THE MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+7. Limitation of liability.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR LOST PROFITS, AND LICENSOR'S TOTAL LIABILITY IS LIMITED TO THE FEES PAID FOR THE MATERIALS IN THE 12 MONTHS BEFORE THE CLAIM.
+
+8. Term and termination.
+The license lasts for the term in the order. It ends automatically if Licensee breaches Section 3. On termination Licensee shall stop using and delete the Materials, except that Licensee may keep its own data and outputs.
+
+9. Earlier versions.
+Copies of the Materials lawfully obtained under an earlier license (including the MIT License under which earlier versions of this repository were published) remain governed by the license under which they were obtained, for those copies. This license applies to versions released on or after the effective date above and to anyone who obtains them.
+
+10. General.
+Governing law: {{GOVERNING_LAW}}. Entire agreement: this license and the order. Assignment: Licensee may not assign without Licensor's written consent. If a provision is unenforceable, the rest remains in effect.

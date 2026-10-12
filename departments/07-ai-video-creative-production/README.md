@@ -1,6 +1,6 @@
 # 07 AI Video and Creative Production
 
-> **Authored, not extracted:** the anti-AI-look laws, kids-animation style laws and example timing/word-count thresholds in this department were written to fill gaps, not taken from earlier projects. Review them before relying on them.
+> **Authored, not extracted:** the anti-AI-look laws, kids-animation style laws and example timing/word-count thresholds in this department were written to fill gaps, not taken from earlier projects. Their review status is in `knowledge/authored-rules-review.md`; read it before relying on them.
 
 ## Purpose
 An AI-assisted video and marketing-creative studio for {{COMPANY}}. It produces:
@@ -37,6 +37,9 @@ Generative tools make footage and images. Humans approve scripts, review every f
 6. Never fabricate claims, testimonials, endorsements or results in video copy. Regulated industries require compliance review of scripts.
 7. Production log entry and AI disclosure register row for every published asset.
 8. Never read or store credentials; keys live in an environment file whose values are never opened.
+
+## Harnesses (`harnesses/`)
+Stdlib Python 3 with self-tests: `video_planner.py`. See `harnesses/README.md`. Run `python video_planner.py --selftest` after any change.
 
 ## Handoffs
 - From `06-publishing`: episode scripts and series bibles; read-along and trailer requests.

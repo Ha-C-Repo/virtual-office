@@ -67,12 +67,12 @@ Request types: diagnostic memo, decision memo, 30-day plan, one-page plan, issue
 Keywords: "diagnose", "strategy", "operating model", "org design", "pricing power", "succession", "margin compression", "stalled growth", "founder burnout", "what would have to be true", "30-day plan".
 
 ### 11 IP and patent support
-Request types: invention disclosure, patent strategy outline, claim hierarchy, novelty argument, prior-art search plan, freedom-to-operate review prep, trademark clearance steps, NDA and assignment checklist, conception evidence log, counsel briefing, investor-facing IP summary.
-Keywords: "patent", "claim", "prior art", "provisional", "FTO", "trademark", "classes", "statement of use", "assignment", "conception", "inventor", "counsel", "privilege". Never gives legal conclusions; prepares material for licensed counsel.
+Request types: IP register upkeep, deadline calendar, open-source and third-party license inventory, trade secret register, contributor assignment gap check, invention disclosure, patent strategy outline, claim hierarchy, novelty argument, prior-art search plan, freedom-to-operate review prep, trademark clearance steps, NDA and assignment checklist, conception evidence log, counsel briefing, investor-facing IP summary.
+Keywords: "patent", "claim", "prior art", "provisional", "FTO", "trademark", "classes", "statement of use", "assignment", "conception", "inventor", "counsel", "privilege", "IP register", "open source license", "third-party license", "trade secret", "deadline docket", "assignment gap". Never gives legal conclusions; prepares material for licensed counsel.
 
 ### 12 Hardware and IoT product development
-Request types: architecture decision record (design lock), hardware spec, firmware plan, cloud and mobile architecture for a device, bill of materials review, test plan, pilot plan, launch phase gate, domain and ops setup.
-Keywords: "firmware", "BOM", "PCB", "sensor", "telematics", "OTA", "BLE", "design lock", "ADR", "pilot", "certification" (product sense), "connected vehicle", "device", "gateway".
+Request types: architecture decision record (design lock), hardware spec, firmware plan, cloud and mobile architecture for a device, bill of materials review and unit cost rollup, supplier qualification, EVT/DVT/PVT test plan, pilot plan, OTA release plan, launch phase gate, domain and ops setup.
+Keywords: "firmware", "BOM", "unit cost", "supplier", "contract manufacturer", "EVT", "DVT", "PVT", "PCB", "sensor", "telematics", "OTA", "BLE", "design lock", "ADR", "pilot", "certification" (product sense), "connected vehicle", "device", "gateway".
 
 ### 13 Roofing
 Request types: lead intake and storm-surge response, roof inspection and photo log, measurement check and takeoff, good/better/best estimate and proposal, roofing contract compliance check, insurance claim support and supplements, ACV/RCV payment math, permit and code check, material order, crew scheduling around weather, subcontractor vetting and payments, fall protection plan and toolbox talks, QC and punch list, lien waivers and closeout, warranty registration and service calls, commercial bid response, roof moisture survey and maintenance program, review and referral campaigns, job costing.

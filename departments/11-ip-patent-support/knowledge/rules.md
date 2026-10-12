@@ -10,3 +10,8 @@
 8. Keep an IP register: assets, status, deadlines, owner entity.
 9. Third-party licenses are tracked for all included components.
 10. Deadlines are calendared with early reminders; missed deadlines are escalated immediately.
+11. Every register row and deadline cites a source document. No source means "unverified".
+12. Third-party and open-source components are inventoried from manifests, with the license file path and date checked. "Unknown" license blocks release.
+13. Trade secret registers describe; they never contain the secret.
+14. The office never calculates, extends or waives a legal deadline. Dates come from counsel or the filing record.
+15. Contributor assignment gaps go to counsel; this department does not draft assignment language.

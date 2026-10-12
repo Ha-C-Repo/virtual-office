@@ -36,6 +36,9 @@ intake-to-engagement, diagnose-phase, decide-session, design-phase, deploy-compa
 ## Knowledge (`knowledge/`)
 glossary, rules, schemas
 
+## Harnesses (`harnesses/`)
+Stdlib Python 3 with self-tests: `unit_economics.py`. See `harnesses/README.md`. Run `python unit_economics.py --selftest` after any change.
+
 ## Handoffs
 - 09-business-admin-finance-compliance: engagement contracts, invoicing, financial statements the model draws on.
 - 08-ai-services-software: tooling, data pipelines, dashboards.
